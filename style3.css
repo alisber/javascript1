@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.home{
+    text-align: center;
+}
+
+p{
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+h1{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 50px;
+}
+
+span{
+    font-size: 30px;
+}
+
+button{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    margin-top: 20px;
+}
+
+button:hover{
+    background-color: green;
+}
